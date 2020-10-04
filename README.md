@@ -1,2 +1,3 @@
 # test_conflict
-REMOTE
+<<<<<<< HEAD
+LOCAL
